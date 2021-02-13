@@ -1,0 +1,32 @@
+.a{
+  position: relative;
+  margin: 0px;
+  height: 100px;
+  width: 120px;
+  text-align: center;
+  margin-left:  400px;
+}
+.b{
+  position: relative;
+  margin: 0px;
+  height: 100px;
+  width: 220px;
+  text-align: center;
+margin-left: 300px;
+}
+.c{
+  position: relative;
+  margin: 0px;
+  height: 100px;
+  width: 320px;
+  text-align: center;
+  margin-left: 200px;
+}
+.d{
+  position: relative;
+  margin: 0px;
+  height: 100px;
+  width: 420px;
+  text-align: center;
+  margin-left:  100px;
+}
